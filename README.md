@@ -1,5 +1,5 @@
 # DataStructures_Python
-Data Structures Implementation in Python and Explains each Steps.
+### Data Structures Implementation in Python and Explains each Steps.
 ![screenshot](DataStructures.png)
 
 ## 🔴 Data Structures and Algorithms using Python 🔴
@@ -18,10 +18,15 @@ Here Now available the Arrays Data Structures in the Repository -
 5. Coding Questions that Mostly asked in Interviews
 
 🔵Playlists that make you skilled up - 
+
 Data Science and Analysis - https://bit.ly/3hnTY8M
+
 Machine Learning - https://bit.ly/3gsuIxb
+
 Face Recognition - https://bit.ly/2YphpHm
+
 Creative Python - https://bit.ly/34nM9wr
+
 Latest Tech Videos - https://bit.ly/2QcaOeW
 
 🔴Next this Week - Stacks Implementation in Python with Examples.
